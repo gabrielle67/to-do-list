@@ -1,2 +1,5 @@
 /.vscode
+/build
+/out
+CMakePresets.json
 TODO
