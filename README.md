@@ -1,6 +1,8 @@
 # To Do List
 a C++ Windows Application for a To Do List
 
+![ToDo List](resources/images/todo-list.png)
+
 ## Functionality
 - Write and add a task
 - delete a single task or clear entire task board
@@ -8,6 +10,6 @@ a C++ Windows Application for a To Do List
 
 ### Learning Goals
 - Practice C++
-- CMake
+- Practice CMake
 - vcpkg & package management in C++
 - wxWidgets & GUI
